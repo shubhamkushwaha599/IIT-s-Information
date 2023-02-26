@@ -1,0 +1,21 @@
+body{
+    background-color:lightgray;
+    text-align: center;
+    margin: 0 px;
+    padding: 0 px;;
+}
+
+h1{
+    background-color: blue;
+}
+
+.statename{
+    text-align: center;
+}
+
+.state{
+    text-align: center;
+    border: 2px solid;
+    padding: 10px;
+}
+
